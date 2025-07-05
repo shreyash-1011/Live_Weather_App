@@ -1,1 +1,1 @@
-# Welcome to your Lovable project
+# Welcome to your Weather App project
